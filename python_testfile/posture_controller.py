@@ -1,5 +1,5 @@
 # This is a python test file for controller test used for posture controller.
-# Controller input target posture, and the real posture, output target angle velocity.
+# Controller input target posture, and the real posture, output target angular velocity.
 
 import numpy as np
 import matplotlib.pyplot as plt

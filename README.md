@@ -1,5 +1,6 @@
 # MR_Drone
 Artificial muscle driven drone simulator
 
-## Test 1
-Test if git and code working correctly
+## python_testfile
+A rough simulator for the controller of the drone posture.
+Assuming PID output is exactly the angular velocity
