@@ -3,7 +3,8 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import math as math
+import math
+import random
 
 class PIDController:
     # PID Controller
@@ -34,9 +35,15 @@ class Quadrotor:
 
     def update(self, dt):
         # Update drone's posture
-        self.roll += self.roll_rate * dt
-        self.pitch += self.pitch_rate * dt
-        self.yaw += self.yaw_rate * dt
+        # Random noise for angular velocity
+        if random.random() > 0.8:
+            self.roll += (self.roll_rate * dt + random.random() / 5 - 0.1)
+            self.pitch += (self.pitch_rate * dt + random.random() / 5 - 0.1)
+            self.yaw += (self.yaw_rate * dt + random.random() / 5 - 0.1)
+        else:
+            self.roll += self.roll_rate * dt
+            self.pitch += self.pitch_rate * dt
+            self.yaw += self.yaw_rate * dt
 
 def main():
     # Initialise PID Controller
