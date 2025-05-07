@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/pid_test.dir/pid_test.cpp.o -o pid_test  -lasan betaflight_c/libpid_betaflight.a -Wl,--whole-archive build_debug/_deps/mdss-src/src/libmdss.a -Wl,--no-whole-archive build_debug/_deps/mdss-src/src/UtilityFunctions/libutility_functions.a -lasan
