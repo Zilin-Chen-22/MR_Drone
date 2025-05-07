@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/test1.dir/testfile.cpp.o -o test1  betaflight_c/libpid_betaflight.a

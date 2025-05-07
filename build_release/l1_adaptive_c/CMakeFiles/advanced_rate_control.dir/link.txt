@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadvanced_rate_control.a CMakeFiles/advanced_rate_control.dir/basic_pid.c.o
+/usr/bin/ranlib libadvanced_rate_control.a

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/CMakeFiles/mdss-populate"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/CMakeFiles/mdss-populate.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/CMakeFiles/mdss-populate-complete.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-build.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-configure.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-download.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-install.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-patch.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-test.rule"
+		},
+		{
+			"file" : "/home/zilin/Documents/UofT/beta_fly_sim/build_debug/_deps/mdss-subbuild/mdss-populate-prefix/src/mdss-populate-stamp/mdss-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mdss-populate"
+		],
+		"name" : "mdss-populate"
+	}
+}
