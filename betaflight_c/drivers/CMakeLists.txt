@@ -1,0 +1,1 @@
+target_include_directories(${STATIC_LIB_TARGET} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
